@@ -1,0 +1,4 @@
+blue 8ea9e8
+green 87c5a4
+red ec8d81
+yellow e7b788
