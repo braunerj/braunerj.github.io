@@ -2160,19 +2160,6 @@ input, select, textarea {
 
 /* Image */
 
-
-.imgLink { border: none; background: none; }
-.imgLink img
-{
-  height: 8rem;
-}
-.imgLink:active img, .imgLink:focus img
-{
-  height: 16rem;
-}
-
-
-
 	.image {
 		border: 0;
 		display: inline-block;
