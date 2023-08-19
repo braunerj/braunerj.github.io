@@ -2216,6 +2216,10 @@ input, select, textarea {
 					margin: 1.5em 0;
 				}
 
+		img:hover{
+    			transform:scale(2.5);
+		}
+				
 			}
 
 /* List */
